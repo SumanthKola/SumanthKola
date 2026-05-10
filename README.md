@@ -1,4 +1,4 @@
-# Hi, I'm Sumanth Kola 👋
+# Hi, I'm Sumanth Kola
 ### SOC Engineering & Security Operations | CompTIA Security+ Certified
 
 I am an Information Technology professional with a background in systems hardware and technical instruction. I specialize in architecting secure environments and engineering real-time detection pipelines. I am passionate about the intersection of system design and proactive defense.
